@@ -9,6 +9,7 @@ import genericUtilities.BaseClass;
 import genericUtilities.IConstantPath;
 
 public class AddCategoryTest extends BaseClass {
+	//added 
 	@Test
 	public void addCategoryTest() throws InterruptedException {
 		
